@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fakerphp/faker": "^1.23",
+        "ext-mysqli": "*"
+    }
+}
